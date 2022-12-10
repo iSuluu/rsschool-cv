@@ -17,5 +17,12 @@ Professional development, courses:
 <p>Russian – advanced</p>
 <p>English – upper intermediate</p>
 <p>Turkish – intermediate</p>
+<p>Additional information: Specialist with more than 10 years in a payment card industry and more than 9 years in a fraud management & dispute resolution. Have basic knowledge in Bash, Linux commands.</p>
 
-Additional information: Specialist with more than 10 years in a payment card industry and more than 9 years in a fraud management & dispute resolution. Have basic knowledge in Bash, Linux commands.
+
+```
+function multiply(a, b){
+ return a * b
+}
+multiply (1.3)
+```
