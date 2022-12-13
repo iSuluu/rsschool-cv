@@ -11,6 +11,7 @@ Professional development, courses:
 <p>2018 Dec – Learn SQL at codecademy.com</p>
 <p>2019 Jan – Learn the Command Line at codecademy.com</p>
 <p>2019 Mar - Unix workbench from John Hopkins University at Coursera.com</p>
+<p>2022 Dec - RS School JS/FE</p>
 
 <p>Skills: SQL, RegExp, Java, html</p>
 <p>Languages: Kyrgyz – native</p>
